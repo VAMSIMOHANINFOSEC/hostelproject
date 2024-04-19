@@ -1,0 +1,24 @@
+.company-name {
+    color: #ef4398;
+    margin-left: 4px;
+    position: absolute;
+    text-align: center;
+
+}
+
+.spacer {
+    flex-grow: 0.9;
+}
+
+
+
+.nav-link {
+    text-decoration: none;
+
+
+}
+
+.navbarhome {
+    background-color: whitesmoke;
+
+}
